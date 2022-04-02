@@ -1,5 +1,4 @@
-# An Analysis of Kickstarter Campaigns
-# Kickstarting with Excel
+# Kickstarting with Excel: An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
 
